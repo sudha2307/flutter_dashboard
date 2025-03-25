@@ -16,16 +16,17 @@ A **Flutter-based** Student Dashboard with a **Node.js & Express.js** backend an
 
 ## 🖼️ Screenshots
 ### **1️⃣ Login Screen**
-![Login Screen](./screenshots/Screenshot 2025-03-25 143649.png)
+![Login Screen](./screenshots/Screenshot_2025-03-25_143649.png)
 
-### **1️⃣ Login Screen1**
-![Login Screen1](./screenshots/Screenshot 2025-03-25 143713.png)
+### **2️⃣ Login Screen 1**
+![Login Screen1](./screenshots/Screenshot_2025-03-25_143713.png)
 
-### **2️⃣ Dashboard View**
-![Dashboard](./screenshots/Screenshot 2025-03-25 143756.png)
+### **3️⃣ Dashboard View**
+![Dashboard](./screenshots/Screenshot_2025-03-25_143756.png)
 
-### **3️⃣ Dark Mode**
-![Analytics](./screenshots/Screenshot 2025-03-25 143816.png)
+### **4️⃣ Dark Mode**
+![Dark Mode](./screenshots/Screenshot_2025-03-25_143816.png)
+
 
 
 ---
