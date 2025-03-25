@@ -16,15 +16,17 @@ A **Flutter-based** Student Dashboard with a **Node.js & Express.js** backend an
 
 ## 🖼️ Screenshots
 ### **1️⃣ Login Screen**
-![Login Screen]()
+![Login Screen](./screenshots/Screenshot 2025-03-25 143649.png)
+
+### **1️⃣ Login Screen1**
+![Login Screen1](./screenshots/Screenshot 2025-03-25 143713.png)
 
 ### **2️⃣ Dashboard View**
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Screenshot 2025-03-25 143756.png)
 
-### **3️⃣ Student Performance Analytics**
-![Analytics](./screenshots/analytics.png)
+### **3️⃣ Dark Mode**
+![Analytics](./screenshots/Screenshot 2025-03-25 143816.png)
 
-*(Make sure you place the images in a `screenshots` folder inside your project and update the paths accordingly.)*
 
 ---
 
