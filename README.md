@@ -13,6 +13,10 @@ A **Flutter-based** Student Dashboard with a **Node.js & Express.js** backend an
 - 🚀 **Deployed on Vercel**  
 
 ---
+## sample details:
+## rollno : 12345
+## password : pass
+
 
 ## 🖼️ Screenshots
 ### **1️⃣ Login Screen**
