@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hubify-td",
+  "private_key_id": "80f4c6c9b20ee15e535c090583319e70a5df1542",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCUgS3x+xget6LC\nKXUXfN/hPWKPrlviSe0HkWUdewcKRURFvMMgBEmt7eFRZHvYZprl9LpeDkfaW7w3\nbXBTALCvK6Y6jBwDfjH6MsDCQPJ0poA+0TpdLQk/b790gVyZFSLQ7FiSiMS4n7yR\ngvgaiPI5mrnhw3SciweXFoDD0DW50g+x1m/ympzT4ed2ZSv7x929zt2gM9XTH73S\nrM+c7X078b0D6XM30WT4Mg4fK13StHQm8zQUeNNX1Wrx9gfxv+w/6KZSDuOnrl22\nGLz7fFYGf3Nj8Iopo3U/g40vkvuh0sjpSrsNUPpIKu5TSpXTGslDEgMaMwn7dfgr\nfYmoZduTAgMBAAECggEARkIvmJJxQOcki7PNgAVGbmv6W3vkYNUU3UW+jwoLtKI8\nwLmjn1wn96/ZsAZYSXORyUXVfnZHLFnGXHrcb4ieDuIZzQ1Im6ZywqqMY9sSWnoD\nprSaZkbOX0LhU594TbygMjP/W6R1XdvE/Rr3gqZT40j+tH8ihoWIW8T7uqihIn40\n1KoGXrm3HwYXRNDTdpkxVNJLm521lVLj61xZ3NQ+sHipDctwaJpio2tKRGV5ezCS\nnPuVszlnivqE88Q6f3OQ0Ix+WqzUlNT9OS46pijC7GA+x9CChps9jjTKb7FBccew\nR+rABrbfP0vTVtExBt/Z5+ZeAhUe+04J5FRaoZU6oQKBgQDMoq4QIPXHVNnj36wc\necQKHoWinf3NnvY9mC2DngUcpNgNV1DylpmmOB3otSL18esmM1q15X9abzo2DIER\nlYo7GePKnGka1q+DnS6mBYhw+9h36gQ3921kucnVFrLRMCwyaiZwQ3W2dcCuG92j\n47xRmdmCqQF8nwhSp58Og+HvawKBgQC5x67Dt0ndkJ/D9PpZtIoC5gwL6huZ+K25\n5/agL3ir2atZyWPj/Nukae5qrAmDXdrXxavsSPkm9+FWboVfv5WDq8NPmqwU/ktF\n+ZPPnyYq6jpNGWT2Nbr5zh2Emxlj5oDfMJkFxNRDhffC7XWyvU+h4vsO0B35v5i4\nCiI5xLmWeQKBgDIBgwWf+E+YlZJQ408mFljesotVjmMD+Gp+2Ih0Qg2I3t8LulU9\nphhvWCe4s+1kC7GPFRikF2XzDkeM8LFqWJgusHKfnDOZyNQhwfeCHKB3eqN7BULj\n7NCTchXncRUbb4F2XSRL5+UJi2dAmf3ltew+6185i4p3lmIUYhL6+Wg3AoGBAJLG\nKNOlfi0XMrH9XMD8esDZgRD0r0PRDWe/1MAvYRXcTZ0NF+cqgVj+/Aa4zndD8j7g\ng/iUmotn8VZ40NSZpwU08YR1vZiEY3HwQRAaO2xSSydYdcRzJLpxVi7K3p9nn881\nNOAy5kRGlj0hoAhLups6mYDVeakz7vMPxoR/YOR5AoGBAKFV25RPFPLtO/N6rePw\noHxE/3Vs9eeOActlVXx8YtbCArCB4P3Ju1k9+p0ORM2sCwPUYoXd9vMq8e5oYGnj\nJ2H9CHZTOIAEYDUai5v65dZ3hb0g5LBVqXXsIqi63RjXYnwmKkscuPOFqb9SZAQ8\ndmMnr68gmjGg3OI9A0iqOGbQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "hubify-chatbot@hubify-td.iam.gserviceaccount.com",
+  "client_id": "104479958578048352234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hubify-chatbot%40hubify-td.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
